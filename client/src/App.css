@@ -1,0 +1,30 @@
+.App {
+  background-color: #f5f5f5;
+  height: 100vh;
+  
+}
+
+.app__margin {
+  margin: 15px 15px;;
+}
+
+
+.card__flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+.card__margin {
+  margin: 30px 15px;
+  padding: 10px 15px;
+}
+
+.color_grey {
+  background-color: #ffffff;
+}
+
+.max__card_width {
+  width: 600px;
+}
