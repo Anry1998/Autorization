@@ -31,7 +31,7 @@ const LoginForm: FC = () => {
         formState: { errors,  isValid },
         reset
       } = useForm({
-        // mode: 'onBlur'
+        mode: 'onBlur'
       })
 
       const onSubmit = (data: any) => {
